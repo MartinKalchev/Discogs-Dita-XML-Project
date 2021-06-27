@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="what_is_discogs">
+    <title>What is Discogs</title>
+    <body>
+        <p>Discogs is the biggest and most comprehensive music database and marketplace website. It
+            is a site with discographies of all labels, all artists, all cross-referenced, and an
+            international marketplace built off of that database. The focus of Discogs is a
+            user-built database of music. More than 500,000 people have contributed some piece of
+            knowledge, to build up a catalog of more than 14,100,000 recordings and 7,000,000
+            artists. Discogs also offers the ability to catalog your music collection, wantlist, and
+            share your ratings and reviews.</p>
+        <p>Originally created as a hobby project in 2000 by Kevin Lewandowski, Discogs has grown to
+            become a definitive resource for Vinyl and CD recordings.</p>
+    </body>
+    <topic id="what_is_the_marketplace">
+        <title>The Discogs Marketplace</title>
+        <body>
+            <p>The Discogs Marketplace connects buyers and sellers across the globe. With more than
+                61 million items available and thousands of sellers, this is the premier spot from
+                new releases to rare music releases. Because the Marketplace is built on top of the
+                accurate Discogs database, it is easy for sellers to list their inventory and buyers
+                are able to specify the exact version they want.</p>
+        </body>
+    </topic>
+</topic>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Discogs Overview</title>
+    <topicref href="what_is_discogs.dita"/>
+    <topicref href="what_can_you_do_on_discogs.dita"/>
+</map>

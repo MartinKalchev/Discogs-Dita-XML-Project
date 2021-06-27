@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="discogs_account">
+    <title>Discogs account</title>
+    <body>
+        <p>For you to be able to buy and sell music and manage your music collection on Discogs you
+            need to be registered and have an active account. Accouts are free and by joining the
+            discogs community of contributors you can add your unique items to the database. With
+            more than 11 million unique entries and growing every day, the user-contributed database
+            is the largest, most accurate discography of recorded music available! This section will
+            guide you how you can create an account.</p>
+    </body>
+    <topic id="topic_mbn_sj5_bqb">
+        <title>How to contribute to the discogs community</title>
+        <body>
+            <p>
+                <ul id="ul_bps_zj5_bqb">
+                    <li>Find your new favorite musical recording.</li>
+                    <li>Search Discogs for info. If the recording is not in the database...</li>
+                    <li>Add your record to Discogs using the <b>Submission Form</b></li>
+                    <li>Now other Discogs community members can add it to their Wantlist,
+                        Collection, or their Marketplace.</li>
+                </ul>
+            </p>
+        </body>
+    </topic>
+</topic>

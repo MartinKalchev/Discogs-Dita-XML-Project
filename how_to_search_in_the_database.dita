@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_search_in_the_database">
+    <title>How to search in the database</title>
+    <shortdesc>Discogs is a user-built <b>Database</b> that is organised around artists, labels and
+        releases. You can explore the Database in many ways from the <b>Explore page</b>. Just
+        choose an aspect you are interested in, and then start narrowing down the results by using
+        the filters on the left hand side or the tabs to switch between the <b>Master</b>,
+            <b>Artist</b>, <b>Label</b> or <b>Release</b> categories.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xwc_kgq_cpb">
+            <p>You need to have a created and activated your Discogs account and be logged in it.
+            </p>
+        </prereq>
+        <context id="context_rll_zt5_bqb">
+            <p>In this section you will learn how to browse the discogs database.</p>
+            <ul id="ul_lts_rbv_bqb">
+                <li>An Artist page lists all of the releases from that artist.</li>
+                <li>A Label page lists all of the releases from that label.</li>
+                <li>A Release page lists details of that release (year of release, tracklisting,
+                    etc.).</li>
+            </ul>
+        </context>
+        <steps id="steps_sll_zt5_bqb">
+            <step>
+                <cmd>Locate the search bar in the upper left section of the navbar on every discogs
+                    page.</cmd>
+                <choices id="choices_kdz_tdv_bqb">
+                    <choice>
+                        <p>Discogs allows and encourages the correct use of Unicode characters for
+                            data entry. Sometimes, your computer or browser will not be able to
+                            display these characters unless you have set up your computer to do so.
+                            For those that can't see some of the Unicode characters, this article
+                            describes what to do for most browsers and operating systems</p>
+                    </choice>
+                    <choice>Enter the word(s) you would like to search for.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Click on the<b> search icon</b> or hit/press the <b>"Enter"</b> key on your
+                    keyboard.</cmd>
+            </step>
+            <step>
+                <cmd>The default search should be set to <b>All</b> / <b>Everything</b>, but notice
+                    that your search results include tabs for <b>Release</b>, <b>Master Release</b>,
+                        <b>Artist</b>, and <b>Label</b>. Select one of these tabs to narrow your
+                    search results to just that category.</cmd>
+            </step>
+        </steps>
+        <result id="result_asb_chq_cpb">
+            <p>You will see the results of your search dependant on what you have entered and what
+                search filters you have chosen.</p>
+        </result>
+        <example id="example_ej2_rv5_bqb">You are in a music store and want to check the label and
+            the quality of a certain LPor CD. You can do so with the discogs database and search for
+            all the important information you need about it in it and make an informed
+            purchase.</example>
+    </taskbody>
+</task>

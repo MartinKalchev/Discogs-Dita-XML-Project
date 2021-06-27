@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_an_account">
+    <title>How to create an account</title>
+    <taskbody>
+        <prereq id="prereq_brv_sk5_bqb">
+            <p>You need to have opened the discogs website on you device</p>
+        </prereq>
+        <context id="context_crv_sk5_bqb">
+            <p>In this section you will learn how to register and create you account in Discogs.</p>
+        </context>
+        <steps id="steps_drv_sk5_bqb">
+            <step>
+                <cmd>Open the home page.</cmd>
+            </step>
+            <step>
+                <cmd>In the upper right corner of navigatio bar you will see a green button, which
+                    says <b>'Register' </b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the green button.</cmd>
+            </step>
+            <step>
+                <cmd>You will be redirected to the registration form page, where you will need to
+                    fill in your credentials like <b>E-mail address</b>, new <b>username</b> and
+                        <b>password</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the <b>Register</b> button to complete your registration.</cmd>
+            </step>
+            <step>
+                <cmd>Another option is to click on the several "Continue with..." if you have an
+                    account on Facebook, Google or Apple.</cmd>
+            </step>
+            <step>
+                <cmd>After you click "Register" you will receive a verification e-mail which you
+                    will need to open and click on the <b>link</b> in it to verify it.</cmd>
+            </step>
+        </steps>
+        <result id="result_erv_sk5_bqb">
+            <p>After completing the steps above, you will be registered and have an active account
+                on Discogs!</p>
+        </result>
+    </taskbody>
+</task>

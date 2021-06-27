@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Discogs</title>
+    <topicref href="discogs_overview.ditamap" format="ditamap"/>
+    <navref mapref="discogs_overview.ditamap"/>
+    <topicref href="discogs_account.dita">
+        <topicref href="how_to_create_an_account.dita"/>
+        <topicref href="how_to_manage_your_account.dita"/>
+    </topicref>
+    <topicref href="the_discogs_database.dita">
+        <topicref href="how_to_search_in_the_database.dita"/>
+    </topicref>
+    <topicref href="contributing_to_the_discogs_database.dita">
+        <topicref href="how_to_create_an_entry_in_the_database.dita"/>
+    </topicref>
+    <topicref href="discogs_personal_collection.dita">
+        <topicref href="how_to_update_your_collection.dita"/>
+    </topicref>
+</map>

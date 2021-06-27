@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_update_your_collection">
+    <title>How to update your collection</title>
+    <shortdesc>Discogs offers to the users a personal collection page where you can keep track of
+        all the music in your personal collection.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xwc_kgq_cpb">
+            <p>You need to have an active account on Discogs and to be logged in.</p>
+        </prereq>
+        <context id="context_mwz_wbw_bqb">
+            <p>In this section you will learn how to edit and update your music collection.</p>
+        </context>
+        <steps id="steps_nwz_wbw_bqb">
+            <step>
+                <cmd>First find a release you own in the Discogs Database by using the search
+                    box.</cmd>
+            </step>
+            <step>
+                <cmd>After the search result open the<b> Release</b> page.</cmd>
+            </step>
+            <step>
+                <cmd>Verify that your item is the exact as the item on the release page, you can
+                    check the catalog number, images and other identifiers.</cmd>
+            </step>
+            <step>
+                <cmd>On the right-hand side of the page, click the <b>'Add To Collection'</b>
+                    button.</cmd>
+            </step>
+            <step>
+                <cmd>After that you can enter the condition of your item.</cmd>
+            </step>
+            <step>
+                <cmd>To view your collection, click the <b>Collection</b> tab on the
+                        <b>Dashboard</b>, or use the dropdown menu from the <b>Profile</b> tab in
+                    the upper-right corner.</cmd>
+            </step>
+        </steps>
+        <result id="result_asb_chq_cpb">
+            <p>After completing the steps above, you will have saved the item you own to your
+                collection.</p>
+        </result>
+    </taskbody>
+</task>

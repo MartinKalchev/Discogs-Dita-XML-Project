@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_manage_your_account">
+    <title>How to manage your account</title>
+    <shortdesc>When you have an account you will have access to several key features like the
+            <b>Dashboard</b> page. The <b>Dashboard</b> is a customizable homepage that links to
+        areas of the site that relate to your <b>Collection</b> data and user profile. From the
+        Discogs dashboard, you can view your recent Orders, Purchases, Submissions, and Friends'
+        Activity. There is also a section titled My Activity. You can control which kinds of events
+        are posted to your activity feed by editing your Privacy Settings. Also included on the main
+        Dashboard are New Releases, Recommendations, and Group Activity widgets.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xwc_kgq_cpb">
+            <p>You need to have a created and activated your Discogs account and be logged in
+                it.</p>
+        </prereq>
+        <context id="context_rll_zt5_bqb">
+            <p>In this section you will learn what you can do with your account and how to manage
+                it.</p>
+        </context>
+        <steps id="steps_sll_zt5_bqb">
+            <step>
+                <cmd>In the main page click on the <b>profile</b> icon in the upper right corent of
+                    the navbar.</cmd>
+            </step>
+            <step>
+                <cmd>A <b>dropdown menu</b> will appear with several options like<b> Dashboard,
+                        Collection, Wantlist </b>and more.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the option you want to access.</cmd>
+            </step>
+        </steps>
+        <result id="result_asb_chq_cpb">
+            <p>A new page will load dependant on what you have clicked.</p>
+        </result>
+        <example id="example_ej2_rv5_bqb">You want to view your collection and see what LPs you have
+            in your collection and how much they cost. Click on the <b>Collection</b> tab in the
+            dropdown menu and you will see all your collection and it's worth.</example>
+    </taskbody>
+</task>

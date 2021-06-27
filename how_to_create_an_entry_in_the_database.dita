@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_an_entry_in_the_database">
+    <title>How to create an entry in the database</title>
+    <taskbody>
+        <prereq id="prereq_j2n_1rv_bqb">
+            <p> In order to start contributing:</p>
+            <ol id="ol_on2_brv_bqb">
+                <li>You need a user account.</li>
+                <li><b>The Add Release Form</b> allows you to add releases. This is the main focus
+                    of the Database, and is the only way to add new artists and labels. For the sake
+                    of accuracy, you must only add releases you have in your possession.</li>
+                <li>The <b>"Edit"</b> links at the right hand side of each page allow you to update
+                    a release, artist, or label, and add or change images. You can update any
+                    submission at any time.</li>
+            </ol>
+        </prereq>
+        <context>
+            <p>In this section you will learn how to contribute with you own entries to the discogs
+                community.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Get a copy of the release you want to submit.</cmd>
+            </step>
+            <step>
+                <cmd>Check if the release doesn't already exist in the database.</cmd>
+            </step>
+            <step>
+                <cmd>Open the <b>Add Release </b>page.</cmd>
+            </step>
+            <step>
+                <cmd>Identify the Artist.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the title.</cmd>
+            </step>
+            <step>
+                <cmd>Identify the Label.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the Catalog number.</cmd>
+            </step>
+            <step>
+                <cmd>Identify the correct format.</cmd>
+            </step>
+            <step>
+                <cmd>List all the tracks in the <b>Tracklist Section.</b></cmd>
+            </step>
+            <step>
+                <cmd>Add the Genre.</cmd>
+            </step>
+            <step>
+                <cmd>Add Relase Notes (not necessary)</cmd>
+            </step>
+            <step>
+                <cmd>Preview.</cmd>
+            </step>
+            <step>
+                <cmd>Submit.</cmd>
+            </step>
+            <step>
+                <cmd>Wait for approval by the discogs community.</cmd>
+            </step>
+        </steps>
+        <result id="result_xbw_xrv_bqb">After you have successfully gone through the submission
+            process you will have contributed with your own release to the discogs
+            database.</result>
+    </taskbody>
+</task>
